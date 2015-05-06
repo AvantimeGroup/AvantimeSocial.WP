@@ -12,9 +12,9 @@
     "homepage": "https://github.com/AvantimeGroup/AvantimeSocial.WP",
     "minimum-stability": "stable",
     "require": {
+        "wpackagist-plugin/advanced-custom-fields": "4.*"
     },
     "require-dev": {
-	    "phpunit/phpunit": "4.*"
     },
     "autoload": {
     	"psr-4": {

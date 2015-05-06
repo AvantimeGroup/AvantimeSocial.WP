@@ -69,4 +69,12 @@ class AvantimeSocial
     }
 }
 
+/**
+ * Register hooks with calling the class
+ */
 AvantimeSocial::getInstance();
+
+/**
+ * Initiate WordPress Widget Class
+ */
+require_once dirname(__file__).'/AvantimeSocialWidget.php';
