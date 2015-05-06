@@ -20,3 +20,5 @@ if(class_exists('AvantimeSocial')) {
 }
 ```
 with optional an array with keys according to above.
+
+There is also a Widget available: Avantime Social Facebook Widget
