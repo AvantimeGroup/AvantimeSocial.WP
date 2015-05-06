@@ -1,0 +1,24 @@
+{
+    "name": "avantime/social",
+    "description": "Simple social library",
+    "authors": [
+        {
+            "name": "Erik Johansson",
+            "email": "erik.johansson@avantime.se"
+        }
+    ],
+    "license": "MIT",
+    "description": "Simple library containing convenient helper methods for strings, arrays, requests etc",
+    "homepage": "https://github.com/AvantimeGroup/AvantimeSocial.WP",
+    "minimum-stability": "stable",
+    "require": {
+    },
+    "require-dev": {
+	    "phpunit/phpunit": "4.*"
+    },
+    "autoload": {
+    	"psr-4": {
+    		"Avantime\\Social\\": "src"
+    	}
+    }
+}
